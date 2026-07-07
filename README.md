@@ -1,57 +1,93 @@
-## Hi there, I'm Ilya 👋
+# 👋 Hi, I'm Ilya
 
-I'm a Java Backend Developer passionate about building reliable, scalable, and production-ready backend applications.
+I'm an aspiring Java Backend Developer who enjoys building reliable and well-structured backend applications.
 
-Currently, I'm focusing on mastering the Spring ecosystem while developing real-world projects that reflect industry best practices.
+Right now, I'm focused on creating production-style projects with Spring Boot, learning how real backend systems are designed, and improving my software engineering skills one commit at a time.
 
-## 🚀 Tech Stack
+---
+
+## 🚀 Current Focus
+
+* 📦 Building a Warehouse Management System
+* 🏦 Developing a Bank REST API
+* 🧪 Writing cleaner and better structured code
+* 🐳 Learning Docker and modern deployment practices
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
 
 * Java 17
 * Spring Boot
 * Spring Security
 * Spring Data JPA
 * Hibernate
+
+**Database**
+
 * PostgreSQL
 * Liquibase
+
+**Tools**
+
 * Maven
-* Docker *(currently learning)*
-* Git & GitHub
+* Git
+* GitHub
 * Swagger / OpenAPI
+
+**Currently Learning**
+
+* Docker
+* CI/CD
+* JUnit & Mockito
+* Design Patterns
+
+---
 
 ## 📂 Featured Projects
 
 ### 📦 Warehouse API
 
-A warehouse management system built with Spring Boot.
+A production-style warehouse management system.
 
-**Features**
+**Current functionality**
 
 * Product Management
 * Warehouse Management
 * Category Management *(in progress)*
-* Stock Management *(planned)*
-* JWT Authentication *(planned)*
-* Docker Support *(planned)*
 
-### 🏦 Bank REST API
+**Planned**
 
-A banking backend application featuring card management, transfers, authentication, and transaction processing.
-
-## 📚 Currently Learning
-
-* Clean Architecture
+* Inventory Management
+* JWT Authentication
 * Docker
+* Unit & Integration Tests
 * CI/CD
-* Testing (JUnit & Mockito)
-* Design Patterns
-
-## 🎯 Goals for 2026
-
-* Build production-quality backend applications
-* Master Spring Boot ecosystem
-* Contribute to open-source projects
-* Start my career as a Java Backend Developer
 
 ---
 
-Thanks for visiting my profile!
+### 🏦 Bank REST API
+
+A backend banking application focused on clean architecture and business logic.
+
+**Implemented**
+
+* Card Management
+* Money Transfers
+* Validation
+* Exception Handling
+* REST API
+
+---
+
+## 🎯 My Goal
+
+My goal is not just to learn frameworks, but to understand how production backend applications are designed, tested, and maintained.
+
+I'm continuously improving my projects to make them as close as possible to real commercial applications.
+
+---
+
+⭐ Thanks for visiting my profile!
