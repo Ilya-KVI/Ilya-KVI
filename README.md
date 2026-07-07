@@ -1,4 +1,4 @@
-## # Hi there, I'm Ilya 👋
+## Hi there, I'm Ilya 👋
 
 I'm a Java Backend Developer passionate about building reliable, scalable, and production-ready backend applications.
 
