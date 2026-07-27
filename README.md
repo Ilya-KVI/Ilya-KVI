@@ -1,86 +1,115 @@
 # 👋 Hi, I'm Ilya
 
-I'm an aspiring Java Backend Developer who enjoys building reliable and well-structured backend applications.
+I'm a Junior Java Backend Developer focused on building reliable and well-structured backend applications.
 
-Right now, I'm focused on creating production-style projects with Spring Boot, learning how real backend systems are designed, and improving my software engineering skills one commit at a time.
-
----
+I enjoy designing REST APIs, working with databases, implementing security, writing tests, and improving my projects step by step to make them closer to real production systems.
 
 ## 🚀 Current Focus
 
-* 📦 Building a Warehouse Management System
-* 🏦 Developing a Bank REST API
-* 🧪 Writing cleaner and better structured code
-* 🐳 Learning Docker and modern deployment practices
-
----
+📦 Building backend systems with Spring Boot
+📁 Developing file processing services with FastAPI
+🧪 Writing clean, maintainable and tested code
+🐳 Learning Docker and modern deployment practices
 
 ## 🛠 Tech Stack
 
-**Backend**
+### Backend
 
-* Java 17
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
+Java 17
+Spring Boot
+Spring Security
+Spring Data JPA
+Hibernate
+Python
+FastAPI
 
-**Database**
+### Database
 
-* PostgreSQL
-* Liquibase
+PostgreSQL
+Liquibase
+SQL
 
-**Tools**
+### Testing
 
-* Maven
-* Git
-* GitHub
-* Swagger / OpenAPI
+JUnit 5
+Mockito
+Pytest
 
-**Currently Learning**
+### Tools
 
-* Docker
-* CI/CD
-* JUnit & Mockito
-* Design Patterns
-
----
+Maven
+Git
+GitHub
+Swagger / OpenAPI
+Docker
 
 ## 📂 Featured Projects
 
 ### 📦 Warehouse API
 
-A production-style warehouse management system.
+A production-style warehouse management REST API built with Spring Boot.
 
-**Current functionality**
+Implemented:
 
-* Product Management
-* Warehouse Management
-* Category Management *(in progress)*
-
-**Planned**
-
-* Inventory Management
 * JWT Authentication
-* Docker
-* Unit & Integration Tests
-* CI/CD
+* Role-based authorization
+* Product management
+* Warehouse management
+* Category management
+* Validation
+* Exception handling
+* Unit and integration testing
+
+Technologies:
+
+Java 17, Spring Boot, Spring Security, PostgreSQL, Liquibase, JUnit, Mockito
 
 ---
 
 ### 🏦 Bank REST API
 
-A backend banking application focused on clean architecture and business logic.
+A backend banking application focused on business logic and secure REST API design.
 
-**Implemented**
+Implemented:
 
-* Card Management
-* Money Transfers
+* Card management
+* Money transfers
+* User authentication
 * Validation
-* Exception Handling
-* REST API
+* Exception handling
+* REST API architecture
+
+Technologies:
+
+Java 17, Spring Boot, Spring Security, PostgreSQL
 
 ---
+
+### 📁 File Analyzer Service
+
+A FastAPI application for downloading and analyzing large file collections through an external API.
+
+Implemented:
+
+* API client with retry handling
+* Rate limit processing (429/403)
+* File downloading and extraction
+* Database storage
+* Statistics calculation
+* Web interface
+* Automated tests
+
+Technologies:
+
+Python, FastAPI, SQLAlchemy, Pytest
+
+## 🎯 Goal
+
+My goal is to understand how real backend applications are designed, tested, deployed, and maintained.
+
+I continuously improve my projects by applying production practices and learning modern backend development approaches.
+
+⭐ Thanks for visiting my profile!
 
 ## 🎯 My Goal
 
