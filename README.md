@@ -1,122 +1,156 @@
 # 👋 Hi, I'm Ilya
 
-I'm a Junior Java Backend Developer focused on building reliable and well-structured backend applications.
+I'm a Backend Developer focused on building reliable, scalable, and well-structured backend applications.
 
-I enjoy designing REST APIs, working with databases, implementing security, writing tests, and improving my projects step by step to make them closer to real production systems.
+My main stack is Java with Spring Boot, but I also work with Python (FastAPI) and PHP (Laravel). I enjoy designing REST APIs, working with databases, implementing authentication and security, writing tests, and improving my projects using real-world development practices.
 
 ## 🚀 Current Focus
 
-📦 Building backend systems with Spring Boot
-📁 Developing file processing services with FastAPI
-🧪 Writing clean, maintainable and tested code
-🐳 Learning Docker and modern deployment practices
+* 🔹 Building backend applications with Spring Boot
+* 🔹 Developing API services with FastAPI
+* 🔹 Learning modern PHP development with Laravel
+* 🔹 Improving architecture, testing, and deployment skills
+* 🔹 Applying production approaches to personal projects
 
 ## 🛠 Tech Stack
 
 ### Backend
 
-Java 17
-Spring Boot
-Spring Security
-Spring Data JPA
-Hibernate
-Python
-FastAPI
+* Java 17
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* Python
+* FastAPI
+* PHP
+* Laravel
 
 ### Database
 
-PostgreSQL
-Liquibase
-SQL
+* PostgreSQL
+* SQL
+* Liquibase
+* Hibernate ORM
+* SQLAlchemy
 
 ### Testing
 
-JUnit 5
-Mockito
-Pytest
+* JUnit 5
+* Mockito
+* Pytest
 
-### Tools
+### Tools & Technologies
 
-Maven
-Git
-GitHub
-Swagger / OpenAPI
-Docker
+* Maven
+* Git
+* GitHub
+* Swagger / OpenAPI
+* Docker
+* REST API
+* JWT Authentication
 
-## 📂 Featured Projects
+---
 
-### 📦 Warehouse API
+# 📂 Featured Projects
+
+## 📦 Warehouse API
 
 A production-style warehouse management REST API built with Spring Boot.
 
+The project focuses on clean architecture, security, database design, and testing.
+
 Implemented:
 
-* JWT Authentication
-* Role-based authorization
+* JWT authentication
+* Role-based authorization (ADMIN / USER)
 * Product management
 * Warehouse management
 * Category management
+* DTO mapping with MapStruct
 * Validation
 * Exception handling
+* Database migrations with Liquibase
 * Unit and integration testing
+* REST API documentation with OpenAPI
 
 Technologies:
 
-Java 17, Spring Boot, Spring Security, PostgreSQL, Liquibase, JUnit, Mockito
+`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `Liquibase` `JUnit 5` `Mockito` `MapStruct`
 
 ---
 
-### 🏦 Bank REST API
+## 🏦 Bank REST API
 
-A backend banking application focused on business logic and secure REST API design.
+A secure banking backend application designed to practice enterprise-style REST API development.
 
 Implemented:
 
+* User authentication and authorization
+* JWT security
 * Card management
-* Money transfers
-* User authentication
+* Account operations
+* Money transfer logic
 * Validation
 * Exception handling
-* REST API architecture
+* Database integration
 
 Technologies:
 
-Java 17, Spring Boot, Spring Security, PostgreSQL
+`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `JWT`
 
 ---
 
-### 📁 File Analyzer Service
+## 📁 File Analyzer Service
 
-A FastAPI application for downloading and analyzing large file collections through an external API.
+A FastAPI application for downloading, storing, and analyzing large file collections from an external API.
+
+The project demonstrates working with external services, background processing, databases, and data analysis.
 
 Implemented:
 
-* API client with retry handling
-* Rate limit processing (429/403)
+* External API client
+* Retry and rate-limit handling
+* Processing HTTP errors (429 / 403)
 * File downloading and extraction
 * Database storage
-* Statistics calculation
+* File statistics calculation
 * Web interface
-* Automated tests
+* Automated testing
 
 Technologies:
 
-Python, FastAPI, SQLAlchemy, Pytest
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Pytest`
 
-## 🎯 Goal
+---
 
-My goal is to understand how real backend applications are designed, tested, deployed, and maintained.
+## 🌐 Laravel Projects
 
-I continuously improve my projects by applying production practices and learning modern backend development approaches.
+Currently exploring modern PHP backend development with Laravel and related technologies.
 
-⭐ Thanks for visiting my profile!
+Learning and practicing:
 
-## 🎯 My Goal
+* Laravel architecture
+* MVC pattern
+* Routing and controllers
+* Database migrations
+* Eloquent ORM
+* REST API development
+* Integration with frontend technologies
 
-My goal is not just to learn frameworks, but to understand how production backend applications are designed, tested, and maintained.
+Technologies:
 
-I'm continuously improving my projects to make them as close as possible to real commercial applications.
+`PHP` `Laravel` `MySQL/PostgreSQL` `REST API`
+
+---
+
+# 🎯 Goal
+
+My goal is not only to learn frameworks, but to understand how real backend applications are designed, developed, tested, and maintained.
+
+I continuously improve my projects by applying production practices, improving code quality, learning new technologies, and building solutions that are closer to real commercial applications.
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
