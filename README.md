@@ -2,15 +2,43 @@
 
 I'm a Backend Developer focused on building reliable, scalable, and well-structured backend applications.
 
-My main stack is Java with Spring Boot, but I also work with Python (FastAPI) and PHP (Laravel). I enjoy designing REST APIs, working with databases, implementing authentication and security, writing tests, and improving my projects using real-world development practices.
+My main stack is Java with Spring Boot. I also work with Python (FastAPI) and PHP (Laravel). I enjoy designing REST APIs, working with databases, implementing authentication and security, writing tests, and applying real-world development practices.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilya-KVI&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-KVI&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=Ilya-KVI&theme=tokyonight" />
+</p>
+
+---
+
+## 🧰 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,laravel,postgres,mysql,docker,git,linux" />
+</p>
+
+---
 
 ## 🚀 Current Focus
 
 * 🔹 Building backend applications with Spring Boot
 * 🔹 Developing API services with FastAPI
 * 🔹 Learning modern PHP development with Laravel
-* 🔹 Improving architecture, testing, and deployment skills
-* 🔹 Applying production approaches to personal projects
+* 🔹 Improving software architecture and testing skills
+* 🔹 Applying production practices to personal projects
+
+---
 
 ## 🛠 Tech Stack
 
@@ -29,9 +57,9 @@ My main stack is Java with Spring Boot, but I also work with Python (FastAPI) an
 ### Database
 
 * PostgreSQL
+* MySQL
 * SQL
 * Liquibase
-* Hibernate ORM
 * SQLAlchemy
 
 ### Testing
@@ -94,6 +122,7 @@ Implemented:
 * Validation
 * Exception handling
 * Database integration
+* REST API architecture
 
 Technologies:
 
@@ -105,7 +134,7 @@ Technologies:
 
 A FastAPI application for downloading, storing, and analyzing large file collections from an external API.
 
-The project demonstrates working with external services, background processing, databases, and data analysis.
+The project demonstrates working with external services, databases, file processing, and data analysis.
 
 Implemented:
 
@@ -124,9 +153,9 @@ Technologies:
 
 ---
 
-## 🌐 Laravel Projects
+## 🌐 PHP / Laravel
 
-Currently exploring modern PHP backend development with Laravel and related technologies.
+Currently learning modern PHP backend development with Laravel.
 
 Learning and practicing:
 
@@ -154,25 +183,4 @@ I continuously improve my projects by applying production practices, improving c
 
 ⭐ Thanks for visiting my profile!
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilya-KVI&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-KVI&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-KVI&theme=tokyonight" />
-</p>
-
-
-## 🧰 Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,laravel,postgres,docker,git,linux" />
-</p>
 
