@@ -13,7 +13,7 @@ My main stack is Java with Spring Boot. I also work with Python (FastAPI) and PH
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-rust.vercel.app/api/top-langs/?username=Ilya-KVI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ilya-KVI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
