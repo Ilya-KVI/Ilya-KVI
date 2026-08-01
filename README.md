@@ -154,3 +154,25 @@ I continuously improve my projects by applying production practices, improving c
 
 ⭐ Thanks for visiting my profile!
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilya-KVI&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-KVI&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-KVI&theme=tokyonight" />
+</p>
+
+
+## 🧰 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,laravel,postgres,docker,git,linux" />
+</p>
+
